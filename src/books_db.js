@@ -22,6 +22,18 @@ const books = [
         title : "Dopamine Detox",
         img : "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/413tVFk--xS._SY445_SX342_.jpg",
         id : 4
+    }, 
+    {
+        author : "Joseph Murphy",
+        title : "The Power of Your Subconscious Mind",
+        img : "https://m.media-amazon.com/images/I/71sBtM3Yi5L._SY342_.jpg",
+        id : 5
+    }, 
+    {
+        author : "Sudha Murty",
+        title : "Grandma's Bag of Stories",
+        img : "https://m.media-amazon.com/images/I/91xAvyJmUUL._SY342_.jpg",
+        id : 6
     }
 ]
 
